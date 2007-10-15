@@ -3,7 +3,7 @@
 Plugin Name: Tag Suggest Thing
 Plugin URI: http://www.neato.co.nz/wordpress-things/tag-suggest-thing
 Description: Tag Suggestions for Wordpress using 
-Version: beta 1
+Version: 1
 Author: Christine From The Internet
 Author URI: http://www.neato.co.nz
 */
